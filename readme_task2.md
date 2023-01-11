@@ -1,4 +1,4 @@
-AFter the successfull completion of the task 1. The Company decided to give task 2 to test my abilities.
+After the successfull completion of the task 1. The Company decided to give task 2 to test my abilities.
 
 The Task 2 was based on exploratory data analysis on superstore. As a business manager, i have to find out the weak areas where you can work to make more profit and
 What all business problems you can derive by exploring the data.The Languages assigned were Python, Power BI, Tableau.
