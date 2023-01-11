@@ -7,5 +7,5 @@
     * What all business problems you can derive by exploring the data.The Languages assigned were Python, Power BI, Tableau.
     
 
-####  I decided to go with python as decided to predict the model rather than visualization. The solution for the above question has been included in the file name "Exploratory Data Analysis On Sample SuperStore"
+####  I decided to go with python as decided to predict the model rather than visualizing in Power BI. The solution for the above question has been included in the file name "Exploratory Data Analysis On Sample SuperStore"
 
